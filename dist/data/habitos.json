@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Alimentação Equilibrada",
+    "icon": "🥗",
+    "description": "Priorize alimentos naturais, frutas, verduras e proteínas magras.",
+    "tips": [
+      "Monte um prato colorido",
+      "Inclua fibras em todas as refeições",
+      "Beba água antes de sentir sede"
+    ]
+  },
+  {
+    "title": "Sono de Qualidade",
+    "icon": "😴",
+    "description": "Durma 7–9 horas por noite e mantenha horários regulares.",
+    "tips": [
+      "Desligue telas 1h antes",
+      "Deixe o quarto escuro e silencioso",
+      "Evite cafeína à noite"
+    ]
+  },
+  {
+    "title": "Exercícios Físicos",
+    "icon": "🏃‍♀️",
+    "description": "Movimente-se diariamente: caminhada, bike, dança ou musculação.",
+    "tips": [
+      "Comece com 10–15 minutos",
+      "Acompanhe passos ou minutos ativos",
+      "Alongue ao acordar e antes de dormir"
+    ]
+  },
+  {
+    "title": "Saúde Mental",
+    "icon": "🧘",
+    "description": "Acolha suas emoções e reserve momentos de pausa e autocuidado.",
+    "tips": [
+      "Respire fundo por 1 min",
+      "Escreva 3 coisas pelas quais é grato",
+      "Fale com alguém de confiança"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Unidade Básica de Saúde Central",
+    "type": "Posto de Saúde",
+    "city": "Centro",
+    "address": "Rua das Flores, 123",
+    "hours": "Seg–Sex 8h–17h",
+    "contact": "(11) 1234-5678",
+    "link": "https://www.gov.br/saude"
+  },
+  {
+    "name": "Academia ao Ar Livre Parque Verde",
+    "type": "Academia ao Ar Livre",
+    "city": "Parque Verde",
+    "address": "Av. do Parque, s/n",
+    "hours": "Livre 24h",
+    "contact": "-",
+    "link": "https://example.com/parque-verde"
+  },
+  {
+    "name": "Campanha de Vacinação Municipal",
+    "type": "Vacinação",
+    "city": "Vila Nova",
+    "address": "Praça da Matriz",
+    "hours": "Sáb 9h–16h",
+    "contact": "(11) 5555-7777",
+    "link": "https://www.gov.br/saude/vacinacao"
+  },
+  {
+    "name": "Grupo de Meditação Comunitária",
+    "type": "Saúde Mental",
+    "city": "Bela Vista",
+    "address": "Rua da Paz, 45",
+    "hours": "Qua 19h–20h",
+    "contact": "@meditacomunidade",
+    "link": "https://example.com/medita"
+  }
+]
