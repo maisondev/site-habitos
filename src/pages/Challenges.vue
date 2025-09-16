@@ -96,7 +96,7 @@ watch(currentMessages, () => {
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/desafios.json')
+    const res = await fetch(new URL('data/desafios.json', import.meta.env.BASE_URL))
     if (!res.ok) throw new Error('Falha ao carregar desafios.json')
     data.value = await res.json()
     if (!data.value[currentKey.value]) {
