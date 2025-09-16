@@ -53,7 +53,8 @@ function clearFilters() {
 
 onMounted(async () => {
   try {
-    const res = await fetch(new URL('data/recursos.json', import.meta.env.BASE_URL))
+    const url = `${import.meta.env.BASE_URL}data/recursos.json`
+    const res = await fetch(url)
     if (!res.ok) throw new Error('Falha ao carregar recursos.json')
     items.value = await res.json()
   } catch (e) {
